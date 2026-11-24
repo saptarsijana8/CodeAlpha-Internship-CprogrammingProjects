@@ -234,7 +234,7 @@ student_management.exe
 
 Thank you to CodeAlpha for providing this internship opportunity and assigning these practical projects. Completing these tasks was a valuable step in my Python programming journey.
 
-Intern: Saptarsi Jana
-Year: Second-Year Student
-Domain: C Programming
+Intern: Saptarsi Jana\
+Year: Second-Year Student\
+Domain: C Programming\
 Organization: CodeAlpha
